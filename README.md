@@ -1,30 +1,35 @@
 # HackerRank Certificates 🏆
 
-A collection of certificates I've earned by completing skill assessments on [HackerRank](https://www.hackerrank.com/). This repo serves as a personal record of my progress and a quick reference for anyone who'd like to verify my skills.
+A verified record of skill assessments I've completed on [HackerRank](https://www.hackerrank.com/). Each certificate reflects a proctored, timed test of practical ability — not just a course completion badge — so this repo doubles as evidence of what I can actually do, not just what I've studied.
+
+## 🎯 Why this repo exists
+
+Certificates get buried in inboxes and profile pages. Keeping them here means:
+- **One link** to share with recruiters or collaborators instead of hunting through email
+- **Version control** as I add more certifications over time
+- **A public log** of the skills I'm actively building, not a static resume snapshot
 
 ## 📜 Certificates
 
-| Certificate | Skill Area |
-|---|---|
-| [Problem Solving (Basic)](./problem-solving-basic-certificate.pdf) | Data Structures & Algorithms |
-| [Python (Basic)](./python-basic-certificate.pdf) | Python Programming |
-| [SQL (Basic)](./sql-basic-certificate.pdf) | Database Querying |
-| [SQL (Intermediate)](./sql-intermediate-certificate.pdf) | Advanced Database Querying |
+| Certificate | Skill Area | What It Demonstrates |
+|---|---|---|
+| [Problem Solving (Basic)](./problem-solving-basic-certificate.pdf) | Data Structures & Algorithms | Core algorithmic thinking — arrays, strings, sorting, searching, and basic complexity analysis |
+| [Python (Basic)](./python-basic-certificate.pdf) | Python Programming | Fundamentals of Python syntax, data types, control flow, and functions |
+| [SQL (Basic)](./sql-basic-certificate.pdf) | Database Querying | Writing SELECT queries, filtering, joins, and aggregate functions |
+| [SQL (Intermediate)](./sql-intermediate-certificate.pdf) | Advanced Database Querying | Subqueries, window functions, and more complex multi-table logic |
 
-## 📌 About
+## 🧩 How these skills connect
 
-Each PDF in this repository is an official certificate issued by HackerRank upon successful completion of the corresponding skill assessment. These assessments test practical, hands-on ability rather than just theoretical knowledge.
+Problem-solving is the foundation — it's the reasoning layer underneath everything else. Python is the language I use to apply that reasoning in code. SQL is how I work with the data itself: pulling it, shaping it, and asking questions of it. Together, these form a working toolkit for data-oriented development, not four disconnected badges.
 
 ## ✅ Verification
 
-All certificates can be independently verified on HackerRank using the verification link/QR code printed on each PDF.
+Every certificate can be independently verified on HackerRank via the verification link or QR code printed on the PDF itself — nothing here is self-reported.
 
-## 🚀 What's Next
+## 🚀 Currently working toward
 
-I'm continuing to build on these fundamentals and plan to add more certifications as I complete them, including:
-- [ ] Java (Basic/Intermediate)
 - [ ] Problem Solving (Intermediate)
-- [ ] REST API (Intermediate)
+- [ ] SQL (Advanced)
 
 ## 📄 License
 
